@@ -1,16 +1,46 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Abdulghani Ibrahim</h1>
+<h3 align="center">Full Stack Web Developer | AI Engineering Learner</h3>
 
-<!--
-**abdulghanin/abdulghanin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=abdulghanin&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+💻 Full Stack Web Developer with strong experience in **React, Next.js, and Laravel**  
+🤖 Currently learning **AI Engineering**, focusing on **RAG systems** and **vector databases**  
+📍 Based in Dubai, UAE
+
+---
+
+## 🛠️ Tech Stack
+
+### Frontend
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react)
+![Next.js](https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=next.js)
+
+### Backend
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel)
+
+---
+
+## 📌 My Best Projects
+
+⭐ **Portfolio** – Responsive React portfolio  
+⭐ **Laravel Starter** – CRUD with Auth  
+⭐ **Blog-App** – Full stack project  
+⭐ **Notes-App** – JavaScript  
+📎 More in Repositories section
+
+---
+
+## 📫 Let’s Connect
+
+🔗 LinkedIn • Website • StackOverflow
+
+---
+
+⭐ Always learning. Always building.
