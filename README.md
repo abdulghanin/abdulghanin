@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Abdulghani Ibrahim</h1>
 <h3 align="center">
-Full Stack Web Developer | AI & LLM Engineering Learner
+AI Engineer | AI Agents • RAG Systems • Automation
 </h3>
 
 <p align="center">
@@ -11,14 +11,31 @@ Full Stack Web Developer | AI & LLM Engineering Learner
 
 ## 🚀 About Me
 
-💻 Full Stack Web Developer with strong experience in **React, Next.js, and Laravel**  
-🤖 Currently learning **AI Engineering**, with a focus on **Generative AI, LLMs, and RAG systems**  
-🧠 Interested in building **AI-powered web applications** and scalable systems  
+🤖 AI Engineer focused on building intelligent systems using Large Language Models (LLMs)  
+🧠 Specialized in **AI Agents, RAG systems, and automation workflows**  
+⚡ Building scalable solutions that integrate with APIs, databases, and real-world tools  
+🎙️ Exploring **Voice AI agents** using LiveKit, Vapi, and ElevenLabs  
 🌍 Based in UAE  
 
 ---
 
 ## 🛠️ Tech Stack & Skills
+
+### 🤖 AI & LLM Engineering
+![LangChain](https://img.shields.io/badge/LangChain-0A66C2?style=for-the-badge)
+![LangGraph](https://img.shields.io/badge/LangGraph-FF6F00?style=for-the-badge)
+![RAG](https://img.shields.io/badge/RAG-FF9900?style=for-the-badge)
+![AI Agents](https://img.shields.io/badge/AI%20Agents-8A2BE2?style=for-the-badge)
+![MCP](https://img.shields.io/badge/MCP-000000?style=for-the-badge)
+
+---
+
+### ⚙️ Backend & APIs
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=fff)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=fff)
+
+---
 
 ### 🎨 Frontend
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=000)
@@ -27,40 +44,40 @@ Full Stack Web Developer | AI & LLM Engineering Learner
 
 ---
 
-### ⚙️ Backend
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=fff)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=fff)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=fff)
+### 🗄️ Databases & Vector Search
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge)
+![Chroma](https://img.shields.io/badge/Chroma-FF9900?style=for-the-badge)
+![FAISS](https://img.shields.io/badge/FAISS-8B0000?style=for-the-badge)
 
 ---
 
-### 🤖 Generative AI & LLM Frameworks
-![LLM](https://img.shields.io/badge/LLM-0A66C2?style=for-the-badge)
-![LLM Frameworks](https://img.shields.io/badge/LLM%20Frameworks-4B8BBE?style=for-the-badge)
-![Generative AI](https://img.shields.io/badge/Generative%20AI-FF6F00?style=for-the-badge)
-![RAG](https://img.shields.io/badge/RAG-FF9900?style=for-the-badge)
-
----
-
-### 🧠 Machine Learning & MLOps
-![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge)
-![DVC](https://img.shields.io/badge/DVC-945DD6?style=for-the-badge)
-
----
-
-### 🐳 DevOps & Version Control
+### ☁️ DevOps & Cloud
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=fff)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=fff)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=fff)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws)
 
 ---
 
-### 📊 Data & Analytics
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=000)
+## 🚀 Projects
+
+### 🤖 AI RAG Chatbot
+- Built a chatbot that answers questions from documents  
+- Uses embeddings + semantic search  
+- Backend: FastAPI | Frontend: React  
+
+---
+
+### ⚡ AI Agent Automation
+- Developed AI agents that interact with APIs  
+- Automates workflows and multi-step tasks  
+- Built using LangChain & LangGraph  
+
+---
+
+### 🎙️ Voice AI Agent
+- Real-time conversational AI system  
+- Supports voice interaction and task execution  
+- Tools: LiveKit, Vapi, ElevenLabs  
 
 ---
 
@@ -73,23 +90,12 @@ Full Stack Web Developer | AI & LLM Engineering Learner
 
 ---
 
-## 📌 Featured Projects
-
-🔹 **Portfolio Website** – React / Next.js  
-🔹 **Laravel Starter** – Auth, Roles & CRUD  
-🔹 **Notes App** – JavaScript  
-🔹 **AI RAG Project** – LLM + Vector DB *(in progress)*  
-
-👉 Check the repositories section for more
-
----
-
 ## 📫 Connect With Me
 
-🔗 LinkedIn  
-🌐 Portfolio (Coming Soon)  
-📧 Email (On request)
+🔗 LinkedIn: https://www.linkedin.com/in/%D9%90%D9%90%D9%90abdulghani/  
+💻 GitHub: https://github.com/abdulghanin  
+📧 Email: ghanydev2@gmail.com  
 
 ---
 
-⭐ *Always learning. Always building.*
+⭐ *Building real AI systems that solve real problems.*
