@@ -164,7 +164,7 @@ Modern web applications designed for startups and businesses using Laravel, Next
 # 🤝 Let's Connect
 
 * 💼 LinkedIn: https://www.linkedin.com/in/abdulghani
-* 💻 GitHub: https://github.com/abdulghanin
+* 💻 GitHub: https://github.com/abdulghani/
 * 📧 Email: [ghanydev2@gmail.com](mailto:ghanydev2@gmail.com)
 
 ---
