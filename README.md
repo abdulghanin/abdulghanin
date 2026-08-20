@@ -131,7 +131,6 @@ Modern web applications designed for startups and businesses using Laravel, Next
 * Business Automation
 * Custom AI Solutions
 
----
 
 # 📚 Currently Exploring
 
@@ -141,22 +140,5 @@ Modern web applications designed for startups and businesses using Laravel, Next
 * Model Context Protocol (MCP)
 * AI Automation Platforms
 
----
-
-# 📈 GitHub Stats
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=abdulghanin&show_icons=true&theme=tokyonight"/>
-
-<br>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=abdulghanin&theme=tokyonight"/>
-
-<br>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdulghanin&layout=compact&theme=tokyonight"/>
-
-</p>
 
 
