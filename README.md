@@ -159,18 +159,4 @@ Modern web applications designed for startups and businesses using Laravel, Next
 
 </p>
 
----
 
-# 🤝 Let's Connect
-
-* 💼 LinkedIn: https://www.linkedin.com/in/abdulghani
-* 💻 GitHub: https://github.com/abdulghani/
-* 📧 Email: [ghanydev2@gmail.com](mailto:ghanydev2@gmail.com)
-
----
-
-<p align="center">
-
-⭐ Passionate about building AI-powered products that solve real business problems through intelligent automation, modern web technologies, and scalable software architecture.
-
-</p>
