@@ -1,15 +1,14 @@
-<h1 align="center">Hi 👋, I'm Abdelghani Ibrahim</h1>
+<h1 align="center">Hi 👋, I'm Abdulghani Ibrahim</h1>
 
 <p align="center">
   <strong>AI Engineer &amp; Full-Stack Developer | AI Agents, RAG &amp; Automation</strong>
 </p>
 
 <p align="center">
-  I build AI assistants, business automations, and web applications that help teams work more efficiently.
+  Building AI agents, document intelligence systems, business automations, and full-stack applications.
 </p>
 
 <p align="center">
-  <a href="https://agdigital.dev/en">Portfolio</a> •
   <a href="https://www.linkedin.com/in/abdulghaniai/">LinkedIn</a> •
   <a href="https://github.com/abdulghanin">GitHub</a>
 </p>
@@ -20,11 +19,13 @@
 
 ## 👨‍💻 About Me
 
-I'm an AI Engineer and Full-Stack Developer based in Dubai, UAE. I combine Python and FastAPI backends with React and Next.js frontends to build practical software for businesses.
+I'm an AI Engineer and Full-Stack Developer based in Dubai, UAE, with a Bachelor's degree in Computer Science.
 
-My focus is on AI agents, document-based question answering, customer support chatbots, and workflow automation. I also build business websites, e-commerce applications, and POS systems.
+My work combines AI integration, backend development, frontend engineering, and business process automation. I build applications using Python, FastAPI, React, Next.js, and Laravel, with a focus on practical business needs.
 
-I care about clear user experiences, maintainable code, and reliable integrations—from the first API request to deployment.
+My project experience includes retrieval-augmented generation (RAG), multi-agent workflows, customer support assistants, CRM automation, email processing, and retail POS systems. I also work with cloud deployment, Linux servers, and IT application support.
+
+I focus on maintainable code, clear user experiences, reliable integrations, and dependable deployments.
 
 ## 💡 What I Build
 
@@ -34,19 +35,50 @@ I care about clear user experiences, maintainable code, and reliable integration
 - **Business automation** connecting email, CRMs, notifications, and external APIs.
 - **Full-stack applications** including websites, online stores, and POS systems.
 - **Cloud deployments** using Docker, managed platforms, and Linux VPS hosting.
+- **Application support** covering troubleshooting, configuration, and day-to-day technical issues.
 
 ## 🛠️ Tech Stack
 
 | Area | Technologies |
 | --- | --- |
-| AI & Agents | OpenAI API, Claude, Gemini, LangChain, LangGraph, MCP |
-| RAG & Search | Embeddings, semantic search, Pinecone, pgvector, FAISS, ChromaDB |
-| Automation & Integrations | n8n, webhooks, REST APIs, HubSpot, Telegram, Resend |
-| Backend | Python, FastAPI, Pydantic, Laravel, Node.js |
-| Frontend | Next.js, React, TypeScript, Tailwind CSS |
+| AI & Agents | OpenAI API, Claude, Gemini, LangChain, LangGraph, OpenAI Agents SDK, MCP, prompt engineering, tool calling, structured outputs |
+| RAG & Document Intelligence | Document ingestion, chunking, embeddings, semantic search, source tracking, Pinecone, pgvector, FAISS, ChromaDB |
+| Workflow Automation | n8n, webhooks, validation, conditional routing, notifications, idempotency |
+| Business Integrations | HubSpot CRM, Gmail, IMAP, Notion, Telegram Bot API, Resend |
+| Backend & APIs | Python, FastAPI, Pydantic, async programming, PHP, Laravel, Node.js, REST APIs |
+| Frontend | Next.js, React, TypeScript, JavaScript, Tailwind CSS, responsive interfaces |
 | Databases & ORM | PostgreSQL, MySQL, MongoDB, Prisma |
-| Cloud & DevOps | Docker, Git, GitHub Actions, AWS App Runner, GCP Cloud Run, Azure Container Apps, Vercel |
-| VPS & Hosting | Linux, Nginx, SSL, systemd |
+| Cloud Platforms | AWS App Runner, GCP Cloud Run, Azure Container Apps, Vercel |
+| DevOps & Delivery | Docker, Git, GitHub, GitHub Actions, Terraform |
+| Servers & Hosting | Linux, Ubuntu, VPS administration, Nginx, SSL/TLS, DNS, SSH, systemd, backups |
+| Business Applications | POS systems, inventory management, e-commerce, Shopify, Odoo ERP |
+| IT & Application Support | Windows, desktop troubleshooting, printers, network connectivity, Microsoft Office |
+
+## 💼 Practical Experience
+
+### AI Engineering & Integration
+
+- Build document processing and retrieval pipelines for context-aware question answering.
+- Implement request routing, tool calling, conversation memory, and structured model outputs.
+- Connect AI applications to external services through APIs and webhooks.
+
+### Workflow Automation
+
+- Design n8n workflows for lead intake, AI qualification, CRM updates, and notifications.
+- Automate email classification, summarization, priority detection, and reply drafting.
+- Add input validation, conditional logic, and duplicate-processing safeguards.
+
+### Full-Stack & Business Application Development
+
+- Develop FastAPI and Laravel backends with React and Next.js interfaces.
+- Build sales, purchasing, inventory, customer management, and reporting features.
+- Implement role-based access, bilingual interfaces, and responsive layouts.
+
+### Deployment & Technical Support
+
+- Deploy containerized applications to cloud platforms and Linux VPS environments.
+- Configure Nginx, domains, SSL certificates, application services, and database backups.
+- Troubleshoot application configuration, deployment failures, and connectivity issues.
 
 ## 🚀 Featured Projects
 
@@ -86,14 +118,6 @@ Business applications for Royal Beauty and Mahmasat Mazeed, covering sales, inve
 
 **Stack:** Next.js · React · TypeScript · Tailwind CSS · PostgreSQL · Prisma
 
-### 🌐 AG Digital
-
-A bilingual business website presenting web development and AI automation services, with a contact form and a moderated testimonials workflow.
-
-**Stack:** Next.js · Resend · Linux VPS · Nginx · SSL
-
-[Visit AG Digital →](https://agdigital.dev/en)
-
 ## 🎯 Services
 
 - AI chatbot and customer support assistant development.
@@ -106,7 +130,13 @@ A bilingual business website presenting web development and AI automation servic
 - Business websites, e-commerce applications, and POS systems.
 - Docker deployment and Linux VPS setup.
 
-## 📚 Currently Exploring
+## 🎓 Education & Professional Development
+
+**Bachelor's in Computer Science — Emirates College**
+
+Additional training in AI engineering, agent frameworks, cloud deployment, MLOps, and full-stack development with Next.js and Laravel.
+
+## 📚 Current Learning Interests
 
 - Advanced agent orchestration and multi-agent systems.
 - Voice AI and conversational interfaces.
@@ -117,5 +147,5 @@ A bilingual business website presenting web development and AI automation servic
 
 Have a project involving AI, automation, or web development? Let's discuss what you want to build.
 
-- **Portfolio:** [agdigital.dev](https://agdigital.dev/en)
 - **LinkedIn:** [Abdulghani Ibrahim](https://www.linkedin.com/in/abdulghaniai/)
+- **GitHub:** [abdulghanin](https://github.com/abdulghanin)
